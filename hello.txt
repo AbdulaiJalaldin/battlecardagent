@@ -1,0 +1,38 @@
+The End Goal: A Streamlit dashboard showing Battlecards.
+our company output vs competitor output and objection handling
+
+What does that need? A database containing structured 'strengths, weaknesses, and rebuttals'.
+Where does that come from? An LLM synthesizing raw facts.
+Where do the facts come from? An LLM reading scraped websites.
+Where do the websites come from? A web scraper reading a list of URLs.
+
+fourth node final output to send an email
+input                   output 
+approval answer          if output==yes send email if no dont send email
+
+
+
+
+ 3rd approval approve the email
+input                 output 
+drafted response         approval answer yes/no
+
+second node draft response
+
+
+ first node 
+ input              output
+ read an email       extract the email you have read 
+ second node 
+ extracted email     drafted response
+
+
+ state
+ user id
+ extracted email
+  drafted response
+   approval answer
+ 
+
+
+
