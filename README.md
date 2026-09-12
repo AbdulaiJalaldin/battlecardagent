@@ -1,5 +1,6 @@
 to run this code
 first install the dependancies in requirements.txt 
+
 pip install -r requirements.txt
 
 create a .env file and get your api keys for
